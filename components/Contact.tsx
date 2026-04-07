@@ -72,7 +72,7 @@ export default function Contact() {
 
           <div className="contact-buttons flex flex-col sm:flex-row gap-6 justify-center">
             <a
-              href="mailto:nikhil.connectnow@gmail.com"
+              href="mailto:nikhilcode.io@gmail.com"
               className="group relative inline-flex items-center gap-3 bg-gradient-to-r from-blue-500 to-blue-600 text-white px-8 py-4 rounded-full font-semibold hover:scale-110 transition-all duration-300 shadow-xl hover:shadow-2xl hover:shadow-blue-500/50 transform"
             >
               <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
